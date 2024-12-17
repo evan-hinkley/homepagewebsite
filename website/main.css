@@ -1,0 +1,40 @@
+body { 
+    font-family: Andale Mono, monospace;
+    background-image: url("background.png");
+    color: bisque;
+}
+
+a {
+    color: lightskyblue
+}
+
+body { 
+    text-align: center;
+}
+
+
+h4 {
+    font-size: large;
+    bottom: 50%;
+    position: absolute;
+    left: 5%;
+}
+
+h5 {
+    font-size:large;
+    bottom: 50%;
+    position: absolute;
+    right: 5%;
+}
+    
+
+p {
+    bottom: 0%;
+    position: absolute;
+    text: center;
+    font-size: small;
+    left: 50%
+}
+
+
+
